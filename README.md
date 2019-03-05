@@ -1,7 +1,7 @@
 # first-project-2
 <html>
 <head>
-<title> Hello World </title>
+<title>Hello World</title>
 </head>
 Hello World <br>
 My name is Savvas Dimopoulos </br>
