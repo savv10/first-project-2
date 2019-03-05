@@ -3,6 +3,7 @@
 <head>
 <title>Hello World</title>
 </head>
+<body>
 Hello World <br>
 My name is Savvas Dimopoulos </br>
 My favourite colour is <font color="#0000ff"> Blue </font> </br>
