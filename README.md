@@ -1,7 +1,6 @@
 # first-project-2
 <html>
 <head>
-<title> </title> 
 </head>
 <body>
 <p>
