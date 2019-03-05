@@ -1,7 +1,7 @@
 # first-project-2
 <html>
 <head>
-  <title></title> </br>
+<title></title> </br>
 </head>
 <body>
 Hello World <br>
