@@ -1,6 +1,7 @@
 # first-project-2
 <html>
-  
+<head>
+  <title> Hello World <br> </title>
 Hello World <br>
 My name is Savvas Dimopoulos </br>
 My favourite colour is <font color="#0000ff"> Blue </font> </br>
